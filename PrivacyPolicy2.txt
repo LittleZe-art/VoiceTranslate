@@ -1,0 +1,85 @@
+Privacy Policy
+
+Last updated: [May 14, 2025]
+
+Thank you for using SayHello (“we”, “our”, or “us”). Your privacy is very important to us. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our mobile application (“App”).
+
+⸻
+
+1. Information We Collect
+
+We may collect the following types of information:
+
+a. Personal Information (Only When Provided Voluntarily)
+	•	Contact info you voluntarily submit (e.g., email, phone number) when saving a contact.
+	•	User nickname and avatar (optional).
+
+b. Voice & Audio Data
+	•	Voice recordings for translation purposes.
+	•	Transcripts of audio may be temporarily stored for processing and deleted thereafter.
+
+c. Usage Data
+	•	App usage statistics (e.g. session length, language settings, crash logs).
+	•	Device model, OS version, and approximate location (for language optimization only).
+
+⸻
+
+2. How We Use Your Information
+
+We use your information to:
+	•	Provide and improve voice translation services.
+	•	Allow saving of translated conversations and contacts.
+	•	Send translated emails/messages to your saved contacts (if requested).
+	•	Debug, analyze, and improve app functionality.
+
+⸻
+
+3. Do We Share Your Data?
+
+No. We do not sell, rent, or trade your personal information.
+We may share limited technical data with third-party services only to help us provide voice recognition or translation (e.g. Baidu, iFlytek).
+
+All third parties are under strict contractual obligation to protect your data.
+
+⸻
+
+4. Data Retention & Deletion
+	•	Voice and transcript data are stored temporarily and deleted after processing unless saved manually.
+	•	Contacts you add are stored securely and can be deleted any time within the app.
+	•	You may request full data deletion by contacting us: [your support email]
+
+⸻
+
+5. Children’s Privacy
+
+Our app is not intended for children under 13 years old. We do not knowingly collect personal data from children.
+
+⸻
+
+6. Security
+
+We use encryption and secure cloud services to protect your data from unauthorized access, disclosure, or modification.
+
+⸻
+
+7. Your Rights
+
+You have the right to:
+	•	Access your stored data.
+	•	Request correction or deletion.
+	•	Withdraw consent at any time.
+
+To exercise these rights, email us at: [your support email]
+
+⸻
+
+8. Changes to This Policy
+
+We may update this Privacy Policy from time to time. You will be notified via the app or via email when significant changes are made.
+
+⸻
+
+9. Contact Us
+
+If you have questions or concerns about this policy, please contact:
+fruittriple66@gmail.com
